@@ -1,0 +1,35 @@
+.obox{
+    border: solid 1px;
+    height: 600px;
+    background-image:url(hotel.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 600px;
+
+}
+#cafe{
+    color:pink;
+    font-size: 90px;
+    text-align: center;
+    padding-top: 90px;
+}
+#register,#Login{
+    width: 200px;
+    height: 50px;
+    background-color: bisque;
+}
+#register{
+    margin-left: 430px;
+}
+#register a,#Login a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+#register:hover{
+    background-color:orange;
+}
+#Login:hover{
+    background-color: orange;
+}
